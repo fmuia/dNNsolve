@@ -1,0 +1,28 @@
+
+ EOM: GT
+ Neurons per branch:  10
+ Epochs:  1431
+ Total Time: 27.6390
+ Final log10(Loss Adam): -0.8621
+ Final log10(Loss): -2.3440
+ Log10 of  Sqrt Mean squared error:  -3.6139
+ log10(Loss bulk): -2.3809 log10(Loss IC): -5.6512 log10(Loss board): -3.4607
+ #######################################################
+ EOM: LO
+ Neurons per branch:  10
+ Epochs:  9289
+ Total Time: 155.7327
+ Final log10(Loss Adam): -1.0588
+ Final log10(Loss): -1.4286
+ Log10 of  Sqrt Mean squared error:  -2.3884
+ log10(Loss bulk): -1.8141 log10(Loss IC): -1.7843 log10(Loss board): -2.2595
+ #######################################################
+ EOM: NS
+ Neurons per branch:  10
+ Epochs:  4389
+ Total Time: 61.7323
+ Final log10(Loss Adam): -0.8111
+ Final log10(Loss): -1.4942
+ Log10 of  Sqrt Mean squared error:  -20.0000
+ log10(Loss bulk): -1.5914 log10(Loss IC): -3.8059 log10(Loss board): -2.2026
+ #######################################################

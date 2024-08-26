@@ -1,0 +1,109 @@
+
+ EOM: par
+ Neurons per branch:  10
+ Epochs:  2227
+ Total Time: 15.0051
+ Final log10(Loss Adam): -1.0877
+ Final log10(Loss): -3.1899
+ Log10 of  Sqrt Mean squared error:  -5.0216
+ log10(Loss bulk): -3.1955 log10(Loss IC): -19.6990 log10(Loss board): -5.0772
+ #######################################################
+ EOM: poisson_par
+ Neurons per branch:  10
+ Epochs:  3913
+ Total Time: 24.0805
+ Final log10(Loss Adam): -0.8114
+ Final log10(Loss): -2.5027
+ Log10 of  Sqrt Mean squared error:  -20.0000
+ log10(Loss bulk): -2.9029 log10(Loss IC): -19.6990 log10(Loss board): -2.7230
+ #######################################################
+ EOM: wave
+ Neurons per branch:  10
+ Epochs:  686
+ Total Time: 7.8698
+ Final log10(Loss Adam): -1.6733
+ Final log10(Loss): -4.8504
+ Log10 of  Sqrt Mean squared error:  -5.8647
+ log10(Loss bulk): -5.1254 log10(Loss IC): -6.3050 log10(Loss board): -5.7788
+ #######################################################
+ EOM: waveN
+ Neurons per branch:  10
+ Epochs:  645
+ Total Time: 7.4492
+ Final log10(Loss Adam): -1.8128
+ Final log10(Loss): -4.2980
+ Log10 of  Sqrt Mean squared error:  -5.5859
+ log10(Loss bulk): -4.5404 log10(Loss IC): -5.9256 log10(Loss board): -5.0146
+ #######################################################
+ EOM: twave
+ Neurons per branch:  10
+ Epochs:  796
+ Total Time: 6.7294
+ Final log10(Loss Adam): -1.2283
+ Final log10(Loss): -3.6336
+ Log10 of  Sqrt Mean squared error:  -4.3676
+ log10(Loss bulk): -3.7754 log10(Loss IC): -5.6836 log10(Loss board): -4.3558
+ #######################################################
+ EOM: heat
+ Neurons per branch:  10
+ Epochs:  1450
+ Total Time: 11.1653
+ Final log10(Loss Adam): -1.7034
+ Final log10(Loss): -3.6246
+ Log10 of  Sqrt Mean squared error:  -5.0848
+ log10(Loss bulk): -3.6454 log10(Loss IC): -6.5604 log10(Loss board): -5.0800
+ #######################################################
+ EOM: heat2f
+ Neurons per branch:  10
+ Epochs:  792
+ Total Time: 7.4432
+ Final log10(Loss Adam): -1.7300
+ Final log10(Loss): -2.7739
+ Log10 of  Sqrt Mean squared error:  -3.8814
+ log10(Loss bulk): -2.7950 log10(Loss IC): -5.4906 log10(Loss board): -4.3254
+ #######################################################
+ EOM: heat0
+ Neurons per branch:  10
+ Epochs:  1245
+ Total Time: 10.4598
+ Final log10(Loss Adam): -1.7893
+ Final log10(Loss): -3.1738
+ Log10 of  Sqrt Mean squared error:  -4.4120
+ log10(Loss bulk): -3.1937 log10(Loss IC): -6.3404 log10(Loss board): -4.5957
+ #######################################################
+ EOM: poisson1
+ Neurons per branch:  10
+ Epochs:  1567
+ Total Time: 12.9257
+ Final log10(Loss Adam): -0.6371
+ Final log10(Loss): -2.9155
+ Log10 of  Sqrt Mean squared error:  -4.7936
+ log10(Loss bulk): -2.9459 log10(Loss IC): -5.3524 log10(Loss board): -4.4227
+ #######################################################
+ EOM: poisson
+ Neurons per branch:  10
+ Epochs:  1481
+ Total Time: 12.8444
+ Final log10(Loss Adam): 0.2978
+ Final log10(Loss): -3.2649
+ Log10 of  Sqrt Mean squared error:  -5.3827
+ log10(Loss bulk): -3.2921 log10(Loss IC): -5.6082 log10(Loss board): -5.0801
+ #######################################################
+ EOM: AdvectionDiffusion
+ Neurons per branch:  10
+ Epochs:  1630
+ Total Time: 12.1036
+ Final log10(Loss Adam): -1.7507
+ Final log10(Loss): -3.5301
+ Log10 of  Sqrt Mean squared error:  -4.7860
+ log10(Loss bulk): -3.5593 log10(Loss IC): -7.3102 log10(Loss board): -4.7272
+ #######################################################
+ EOM: Burgers
+ Neurons per branch:  10
+ Epochs:  5140
+ Total Time: 31.1876
+ Final log10(Loss Adam): -1.7119
+ Final log10(Loss): -2.8072
+ Log10 of  Sqrt Mean squared error:  -20.0000
+ log10(Loss bulk): -3.0025 log10(Loss IC): -4.3481 log10(Loss board): -3.9356
+ #######################################################

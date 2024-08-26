@@ -1,0 +1,91 @@
+
+ EOM: oscillon
+ Neurons per branch:  35
+ Epochs:  520
+ Total Time: 6.7978
+ Final log10(Loss Adam): -1.8060
+ Final log10(Loss): -2.0876
+ Log10 of  Sqrt Mean squared error:  -0.5164
+ log10(Loss bulk): -2.0876 log10(Loss IC): -7.3719 log10(Loss board): -20.0000
+ #######################################################
+ EOM: mat
+ Neurons per branch:  35
+ Epochs:  667
+ Total Time: 7.3173
+ Final log10(Loss Adam): -1.4253
+ Final log10(Loss): -2.0908
+ Log10 of  Sqrt Mean squared error:  -2.0319
+ log10(Loss bulk): -2.0908 log10(Loss IC): -7.0740 log10(Loss board): -20.0000
+ #######################################################
+ EOM: exp
+ Neurons per branch:  35
+ Epochs:  511
+ Total Time: 4.4502
+ Final log10(Loss Adam): -2.0507
+ Final log10(Loss): -4.8172
+ Log10 of  Sqrt Mean squared error:  -5.4203
+ log10(Loss bulk): -4.8184 log10(Loss IC): -7.3752 log10(Loss board): -20.0000
+ #######################################################
+ EOM: wave
+ Neurons per branch:  35
+ Epochs:  666
+ Total Time: 7.2919
+ Final log10(Loss Adam): -1.1917
+ Final log10(Loss): -4.5018
+ Log10 of  Sqrt Mean squared error:  -5.2293
+ log10(Loss bulk): -4.5041 log10(Loss IC): -6.7729 log10(Loss board): -20.0000
+ #######################################################
+ EOM: dho
+ Neurons per branch:  35
+ Epochs:  900
+ Total Time: 9.2538
+ Final log10(Loss Adam): -1.4103
+ Final log10(Loss): -5.3307
+ Log10 of  Sqrt Mean squared error:  -6.4635
+ log10(Loss bulk): -5.3433 log10(Loss IC): -6.8752 log10(Loss board): -20.0000
+ #######################################################
+ EOM: linear
+ Neurons per branch:  35
+ Epochs:  669
+ Total Time: 5.5590
+ Final log10(Loss Adam): -1.8545
+ Final log10(Loss): -4.7112
+ Log10 of  Sqrt Mean squared error:  -5.3918
+ log10(Loss bulk): -4.7112 log10(Loss IC): -10.0000 log10(Loss board): -20.0000
+ #######################################################
+ EOM: delay
+ Neurons per branch:  35
+ Epochs:  921
+ Total Time: 7.7762
+ Final log10(Loss Adam): -1.8475
+ Final log10(Loss): -2.9618
+ Log10 of  Sqrt Mean squared error:  -1.3136
+ log10(Loss bulk): -2.9618 log10(Loss IC): -10.0000 log10(Loss board): -20.0000
+ #######################################################
+ EOM: gaussian
+ Neurons per branch:  35
+ Epochs:  695
+ Total Time: 5.5337
+ Final log10(Loss Adam): -1.8068
+ Final log10(Loss): -5.0393
+ Log10 of  Sqrt Mean squared error:  -5.8493
+ log10(Loss bulk): -5.0393 log10(Loss IC): -10.0000 log10(Loss board): -20.0000
+ #######################################################
+ EOM: stiff
+ Neurons per branch:  35
+ Epochs:  1044
+ Total Time: 7.6579
+ Final log10(Loss Adam): -0.6130
+ Final log10(Loss): -3.4304
+ Log10 of  Sqrt Mean squared error:  -4.8141
+ log10(Loss bulk): -3.4319 log10(Loss IC): -5.9128 log10(Loss board): -20.0000
+ #######################################################
+ EOM: twofreq
+ Neurons per branch:  35
+ Epochs:  861
+ Total Time: 9.4241
+ Final log10(Loss Adam): 0.3166
+ Final log10(Loss): 0.6045
+ Log10 of  Sqrt Mean squared error:  0.1695
+ log10(Loss bulk): 0.6045 log10(Loss IC): -4.9114 log10(Loss board): -20.0000
+ #######################################################
